@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Developpement C#\\Projet_C\\Projet_C\\Projet_C.csproj": {}
+    "C:\\Users\\user\\Documents\\Projet_Csharp\\Projet_C\\Projet_C\\Projet_C.csproj": {}
   },
   "projects": {
-    "X:\\Developpement C#\\Projet_C\\Projet_C\\Projet_C.csproj": {
+    "C:\\Users\\user\\Documents\\Projet_Csharp\\Projet_C\\Projet_C\\Projet_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Developpement C#\\Projet_C\\Projet_C\\Projet_C.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Projet_Csharp\\Projet_C\\Projet_C\\Projet_C.csproj",
         "projectName": "Projet_C",
-        "projectPath": "X:\\Developpement C#\\Projet_C\\Projet_C\\Projet_C.csproj",
-        "packagesPath": "C:\\Users\\37719352\\.nuget\\packages\\",
-        "outputPath": "X:\\Developpement C#\\Projet_C\\Projet_C\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Projet_Csharp\\Projet_C\\Projet_C\\Projet_C.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Projet_Csharp\\Projet_C\\Projet_C\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\37719352\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

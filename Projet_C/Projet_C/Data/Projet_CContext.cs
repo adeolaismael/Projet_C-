@@ -15,5 +15,9 @@ namespace Projet_C.Data
         }
 
         public DbSet<Projet_C.Models.Continent> Continent { get; set; } = default!;
+
+        public DbSet<Projet_C.Models.Country> Country { get; set; }
+
+        public DbSet<Projet_C.Models.Popcs> Popcs { get; set; }
     }
 }
